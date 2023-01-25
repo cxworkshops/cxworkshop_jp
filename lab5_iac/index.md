@@ -34,7 +34,7 @@ KICS 자동 스캔이 작동하려면 docker가 설치되어 있어야 합니다
 
 __totallysecureapp__ 프로젝트에는 많은 인프라 코드 파일이 있습니다.  이 실습에서는 프로젝트 폴더의 루트에 있는 __terraform.tf__ 파일을 사용하겠습니다.
 
-1. VS Code 내에서 출력 창이 표시되는지 확인합니다.(기본값 위치: 아래쪽 창).  "OUTPUT,"이 표시되지 않으면 __View__ > __Output__ 메뉴로 이동하거나 __Ctrl__+__K__ 키 후 __Ctrl__+__H__ 키를 입력하여 창을 전환할 수 있습니다. OUTPUT 창의 오른쪽 드롭다운 메뉴에 __Checkmarx__ 가 선택되어 있는지 확인합니다.
+1. VS Code 내에서 출력 창이 표시되는지 확인합니다.(기본값 위치: 아래쪽 창).  "OUTPUT"이 표시되지 않으면 __View__ > __Output__ 메뉴로 이동하거나 __Ctrl__+__K__ 키 후 __Ctrl__+__H__ 키를 입력하여 창을 전환할 수 있습니다. OUTPUT 창의 오른쪽 드롭다운 메뉴에 __Checkmarx__ 가 선택되어 있는지 확인합니다.
 
     !["Checkmarx Plugin Output"](./assets/images/checkmarx_plugin_output.png "Checkmarx Plugin Output")
 
